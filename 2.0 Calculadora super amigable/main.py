@@ -2,7 +2,7 @@
     Realiza las 4 operaciones (+,-,* /)
     dada como entrada una cadena de caracteres 
     incorpora al modulo calculadora_aritmetica.py
-    Oscar Franco-Bedoya
+    Yenifer Barco Castrillón
     Mayo 3-2021 """ 
 
 #---------------- Zona librerias------------
